@@ -22,7 +22,16 @@ Welcome to Something Borrowed, a platform designed to facilitate easy lending an
 ## Introduction
 <a id="Introduction">
 
-**Something Borrowed** is a web application that enables users to list items they are willing to lend to others and also allows them to borrow items from fellow users. Users can create accounts, log in, list items with details like pictures, titles, descriptions, and categories. Once an item is listed, it becomes publicly visible for other users to view and potentially borrow.
+Something Borrowed is a web application that enables users to list items they are willing to lend to others and also allows them to borrow items from fellow users. Users can create accounts, log in, list items with details like pictures, titles, descriptions, and categories. Once an item is listed, it becomes publicly visible for other users to view and potentially borrow.
+
+## Deployed Application
+[Link](https://something-borrowed-ed75df030b5e.herokuapp.com/)
+
+- Lauch Page
+![alt text](./public/assets/launch.png)
+
+- My Listings Page
+![alt text](./public/assets/mylistings.png)
 
 ## Features
 <a id="Features"></a>
